@@ -23,6 +23,6 @@ hs_err_pid*
 
 # Other
 .idea/
-/out
+out/
 *.iml
 .gitattributes
